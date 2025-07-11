@@ -1,2 +1,2 @@
-# compose-stacks
-A collection of my personal docker-compose stacks for better control and automation
+# docker-compose-stacks
+My collection of docker-compose stacks for better control and automation
